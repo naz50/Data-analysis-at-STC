@@ -65,5 +65,5 @@ drive.mount('/content/drive')
 
  ``` 
 
-📄 [View the Project Overview (PDF)](./[STC.TV.Data.Analysis.Report-Task4.pdf](https://github.com/naz50/Data-analysis-at-STC/blob/main/STC%20TV%20Data%20Analysis%20Report-Task4.pdf))
+📄 [View the Project Overview (PDF)](https://github.com/naz50/Data-analysis-at-STC/blob/main/STC%20TV%20Data%20Analysis%20Report-Task4.pdf)
 
