@@ -48,8 +48,6 @@ To run this project, install the following Python libraries:
 ```bash
 pip install pandas pyxlsb numpy
 
----
-
 ## Getting Started
 
 To run this project locally:
