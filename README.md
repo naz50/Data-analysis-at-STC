@@ -63,7 +63,8 @@ If working in Google Colab, mount your Google Drive:
 from google.colab import drive
 drive.mount('/content/drive')
 
+ ``` 
 
-Let me know if you want me to help generate the `requirements.txt` file automatically from your notebook or Python environment.
+
 
 
