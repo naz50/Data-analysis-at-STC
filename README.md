@@ -64,5 +64,6 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 
-[STC TV Data Analysis Report-Task4.pdf](https://github.com/user-attachments/files/19637370/STC.TV.Data.Analysis.Report-Task4.pdf)
+Let me know if you want me to help generate the `requirements.txt` file automatically from your notebook or Python environment.
+
 
