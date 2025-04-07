@@ -1,7 +1,7 @@
 # STC Virtual Data Analytics Experience
 (STC تجربة العمل الافتراضي - تحليل البيانات في)
 
-## Overview
+## 🧠 Overview
 
 The aim of this program is to create a complete and realistic virtual work experience for individuals who want to explore the nature of work in the field of data analysis at **STC**.
 
@@ -11,7 +11,7 @@ The program is suitable for **beginners** and **intermediate-level** individuals
 
 ---
 
-## Experience Structure
+## 🧪 Experience Structure
 
 This virtual work experience consists of **4 tasks**:
 
@@ -29,6 +29,27 @@ Present your findings using effective data storytelling techniques to communicat
 
 ---
 
+## 📦 Requirements and Tools
+Python – Main programming language
+
+Google Colab – Cloud-based Python environment for running notebooks
+
+Google Drive – File storage and data access
+
+### Required Libraries
+pandas – Data manipulation and analysis
+
+numpy – Numerical operations and matrix handling
+
+pyxlsb – Reading .xlsb Excel binary files
+
+To run this project, install the following Python libraries:
+
+```bash
+pip install pandas pyxlsb numpy
+
+---
+
 ## Getting Started
 
 To run this project locally:
@@ -39,4 +60,9 @@ To run this project locally:
    cd Data-analysis-at-STC
 
 2. pip install -r requirements.txt
+
+If working in Google Colab, mount your Google Drive:
+from google.colab import drive
+drive.mount('/content/drive')
+
 
