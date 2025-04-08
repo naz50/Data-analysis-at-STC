@@ -30,11 +30,15 @@ Present your findings using effective data storytelling techniques to communicat
 ---
 
 ## 📦 Requirements and Tools
-Python – Main programming language
 
-Google Colab – Cloud-based Python environment for running notebooks
+#### Python – Main programming language for data analysis and modeling
 
-Google Drive – File storage and data access
+#### Anaconda – Python distribution for data science, used to manage libraries and environments
+
+#### Google Colab – Cloud-based environment for running Jupyter notebooks
+
+#### Google Drive – For storing datasets and accessing files within notebooks
+
 
 ## 📦 Required Libraries
 To run this project, make sure the following Python libraries are installed:
