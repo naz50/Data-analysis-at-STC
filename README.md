@@ -87,8 +87,7 @@ drive.mount('/content/drive')
 
 📄 [View the Project Overview (PDF)](https://github.com/naz50/Data-analysis-at-STC/blob/main/STC%20TV%20Data%20Analysis%20Report-Task4.pdf)
 
-![image](https://github.com/user-attachments/assets/4f91e10f-1f6d-470b-91d1-bf2e1083b1cc)
-![image](https://github.com/user-attachments/assets/c0525946-4e62-4eae-87bb-7317c1a24988)
+![image](https://github.com/user-attachments/assets/4f91e10f-1f6d-470b-91d1-bf2e1083b1cc)![image](https://github.com/user-attachments/assets/c0525946-4e62-4eae-87bb-7317c1a24988)
 
 
 
