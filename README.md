@@ -39,25 +39,25 @@ Google Drive – File storage and data access
 📦 Required Libraries
 To run this project, make sure the following Python libraries are installed:
 
-1-pandas – for data manipulation and analysis
+#### 1. pandas – for data manipulation and analysis
 
-2-numpy – for numerical operations and working with arrays
+#### 2. numpy – for numerical operations and working with arrays
 
-3-matplotlib – for creating static visualizations and charts
+#### 3. matplotlib – for creating static visualizations and charts
 
-4-seaborn – for statistical data visualization
+#### 4. seaborn – for statistical data visualization
 
-5-scikit-learn – for building and evaluating machine learning models
+#### 5. scikit-learn – for building and evaluating machine learning models
 
-6-xgboost (optional) – for advanced boosting models
+#### 6. xgboost (optional) – for advanced boosting models
 
-7-warnings – for managing runtime warnings
+#### 7. warnings – for managing runtime warnings
 
-8-joblib (optional) – for saving/loading trained models
+#### 8. joblib (optional) – for saving/loading trained models
 
-9-plotly (optional) – for creating interactive visualizations
+#### 9. plotly (optional) – for creating interactive visualizations
 
-10-statsmodels (optional) – for statistical analysis and modeling
+#### 10. statsmodels (optional) – for statistical analysis and modeling
 
 To run this project, install the following Python libraries:
 
