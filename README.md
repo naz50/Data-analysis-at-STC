@@ -31,13 +31,13 @@ Present your findings using effective data storytelling techniques to communicat
 
 ## 📦 Requirements and Tools
 
-#### Python – Main programming language for data analysis and modeling
+#### 1. Python – Main programming language for data analysis and modeling
 
-#### Anaconda – Python distribution for data science, used to manage libraries and environments
+#### 2. Anaconda – Python distribution for data science, used to manage libraries and environments
 
-#### Google Colab – Cloud-based environment for running Jupyter notebooks
+#### 3. Google Colab – Cloud-based environment for running Jupyter notebooks
 
-#### Google Drive – For storing datasets and accessing files within notebooks
+#### 4. Google Drive – For storing datasets and accessing files within notebooks
 
 
 ## 📦 Required Libraries
