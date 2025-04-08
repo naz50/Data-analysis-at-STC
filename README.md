@@ -36,7 +36,7 @@ Google Colab – Cloud-based Python environment for running notebooks
 
 Google Drive – File storage and data access
 
-📦 Required Libraries
+## 📦 Required Libraries
 To run this project, make sure the following Python libraries are installed:
 
 #### 1. pandas – for data manipulation and analysis
