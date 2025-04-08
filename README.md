@@ -1,7 +1,7 @@
 # STC Virtual Data Analytics Experience
 # (STC تجربة العمل الافتراضي - تحليل البيانات في)
 
-## 🧠 Overview
+## 🧠 Experience Overview:
 
 The aim of this program is to create a complete and realistic virtual work experience for individuals who want to explore the nature of work in the field of data analysis at **STC**.
 
